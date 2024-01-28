@@ -10,7 +10,7 @@ function App() {
       <div id="info">
         <h2>
           {" "}
-          manasa
+          manasa yerra
           <br />
           <a href="https://en.wikipedia.org/wiki/Pawan_Kalyan">
             Click here to know more info.
