@@ -1,0 +1,19 @@
+*{
+  background-color: peachpuff;
+}
+.App-logo{
+  height: 400px;
+  width: 300px;
+  border-radius: 10px;
+  border: 4px solid black;
+}
+.App-header{
+  display: flex;
+  justify-content: center;
+}
+#info{
+  text-align: center;
+}
+h2{
+  color: rgb(8, 6, 6);
+}
